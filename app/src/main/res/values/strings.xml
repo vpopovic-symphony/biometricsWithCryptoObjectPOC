@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biometric and CryptoObject POC</string>
+    <string name="biometric_with_crypto_object_poc">Biometric with CryptoObject POC</string>
+    <string name="log_in_with_biometrics">Log in with biometrics</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="mnemonic">recall baby black mushroom canyon place lonely learn small battle anchor sudden</string>
+</resources>
